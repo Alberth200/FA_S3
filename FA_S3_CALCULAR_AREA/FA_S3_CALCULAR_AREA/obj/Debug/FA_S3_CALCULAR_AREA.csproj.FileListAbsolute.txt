@@ -1,0 +1,7 @@
+D:\Alberth FA\Fundamentos de Algoritmos\FA_S3_CALCULAR_AREA\FA_S3_CALCULAR_AREA\obj\Debug\FA_S3_CALCULAR_AREA.csproj.AssemblyReference.cache
+D:\Alberth FA\Fundamentos de Algoritmos\FA_S3_CALCULAR_AREA\FA_S3_CALCULAR_AREA\obj\Debug\FA_S3_CALCULAR_AREA.csproj.CoreCompileInputs.cache
+D:\Alberth FA\Fundamentos de Algoritmos\FA_S3_CALCULAR_AREA\FA_S3_CALCULAR_AREA\bin\Debug\FA_S3_CALCULAR_AREA.exe.config
+D:\Alberth FA\Fundamentos de Algoritmos\FA_S3_CALCULAR_AREA\FA_S3_CALCULAR_AREA\bin\Debug\FA_S3_CALCULAR_AREA.exe
+D:\Alberth FA\Fundamentos de Algoritmos\FA_S3_CALCULAR_AREA\FA_S3_CALCULAR_AREA\bin\Debug\FA_S3_CALCULAR_AREA.pdb
+D:\Alberth FA\Fundamentos de Algoritmos\FA_S3_CALCULAR_AREA\FA_S3_CALCULAR_AREA\obj\Debug\FA_S3_CALCULAR_AREA.exe
+D:\Alberth FA\Fundamentos de Algoritmos\FA_S3_CALCULAR_AREA\FA_S3_CALCULAR_AREA\obj\Debug\FA_S3_CALCULAR_AREA.pdb
