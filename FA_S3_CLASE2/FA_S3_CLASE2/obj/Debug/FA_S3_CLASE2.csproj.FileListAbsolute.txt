@@ -1,0 +1,7 @@
+C:\Users\UCF20429\Downloads\FA_S3_CLASE2\FA_S3_CLASE2\bin\Debug\FA_S3_CLASE2.exe.config
+C:\Users\UCF20429\Downloads\FA_S3_CLASE2\FA_S3_CLASE2\bin\Debug\FA_S3_CLASE2.exe
+C:\Users\UCF20429\Downloads\FA_S3_CLASE2\FA_S3_CLASE2\bin\Debug\FA_S3_CLASE2.pdb
+C:\Users\UCF20429\Downloads\FA_S3_CLASE2\FA_S3_CLASE2\obj\Debug\FA_S3_CLASE2.csproj.AssemblyReference.cache
+C:\Users\UCF20429\Downloads\FA_S3_CLASE2\FA_S3_CLASE2\obj\Debug\FA_S3_CLASE2.csproj.CoreCompileInputs.cache
+C:\Users\UCF20429\Downloads\FA_S3_CLASE2\FA_S3_CLASE2\obj\Debug\FA_S3_CLASE2.exe
+C:\Users\UCF20429\Downloads\FA_S3_CLASE2\FA_S3_CLASE2\obj\Debug\FA_S3_CLASE2.pdb
